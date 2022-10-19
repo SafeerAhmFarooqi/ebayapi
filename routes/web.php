@@ -14,7 +14,6 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    dd('safeer ahmed asas23123sfsdfsdf');
     return view('welcome');
 });
 
